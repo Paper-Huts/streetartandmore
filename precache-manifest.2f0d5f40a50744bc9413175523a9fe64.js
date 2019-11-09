@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b01d887d993f04a67cd2b2727515d7e3",
+    "revision": "4a87c74f496654a8085296e5da5d7128",
     "url": "paper-huts.github.io/streetartandmore/index.html"
   },
   {
-    "revision": "77d40dcd81a563ab2c14",
+    "revision": "f1cb07bfee36f4f908f9",
     "url": "paper-huts.github.io/streetartandmore/static/css/main.b100e6da.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "paper-huts.github.io/streetartandmore/static/js/2.9c0ed561.chunk.js"
   },
   {
-    "revision": "77d40dcd81a563ab2c14",
-    "url": "paper-huts.github.io/streetartandmore/static/js/main.fa509819.chunk.js"
+    "revision": "f1cb07bfee36f4f908f9",
+    "url": "paper-huts.github.io/streetartandmore/static/js/main.7b46a5b3.chunk.js"
   },
   {
     "revision": "061c1653f0856f892460",

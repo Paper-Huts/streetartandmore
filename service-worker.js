@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "paper-huts.github.io/streetartandmore/precache-manifest.c2fa4182a8c672b08bdd6f05b9d45ab2.js"
+  "paper-huts.github.io/streetartandmore/precache-manifest.2f0d5f40a50744bc9413175523a9fe64.js"
 );
 
 self.addEventListener('message', (event) => {

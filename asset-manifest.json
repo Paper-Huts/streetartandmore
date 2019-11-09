@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "paper-huts.github.io/streetartandmore/static/css/main.b100e6da.chunk.css",
-    "main.js": "paper-huts.github.io/streetartandmore/static/js/main.fa509819.chunk.js",
-    "main.js.map": "paper-huts.github.io/streetartandmore/static/js/main.fa509819.chunk.js.map",
+    "main.js": "paper-huts.github.io/streetartandmore/static/js/main.7b46a5b3.chunk.js",
+    "main.js.map": "paper-huts.github.io/streetartandmore/static/js/main.7b46a5b3.chunk.js.map",
     "runtime-main.js": "paper-huts.github.io/streetartandmore/static/js/runtime-main.651d8f4a.js",
     "runtime-main.js.map": "paper-huts.github.io/streetartandmore/static/js/runtime-main.651d8f4a.js.map",
     "static/js/2.9c0ed561.chunk.js": "paper-huts.github.io/streetartandmore/static/js/2.9c0ed561.chunk.js",
     "static/js/2.9c0ed561.chunk.js.map": "paper-huts.github.io/streetartandmore/static/js/2.9c0ed561.chunk.js.map",
     "index.html": "paper-huts.github.io/streetartandmore/index.html",
-    "precache-manifest.c2fa4182a8c672b08bdd6f05b9d45ab2.js": "paper-huts.github.io/streetartandmore/precache-manifest.c2fa4182a8c672b08bdd6f05b9d45ab2.js",
+    "precache-manifest.2f0d5f40a50744bc9413175523a9fe64.js": "paper-huts.github.io/streetartandmore/precache-manifest.2f0d5f40a50744bc9413175523a9fe64.js",
     "service-worker.js": "paper-huts.github.io/streetartandmore/service-worker.js",
     "static/css/main.b100e6da.chunk.css.map": "paper-huts.github.io/streetartandmore/static/css/main.b100e6da.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.651d8f4a.js",
     "static/js/2.9c0ed561.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.fa509819.chunk.js"
+    "static/js/main.7b46a5b3.chunk.js"
   ]
 }

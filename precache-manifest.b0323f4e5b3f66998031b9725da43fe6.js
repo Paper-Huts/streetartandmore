@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e9702c22b1c1f1305712f4a6513d9071",
+    "revision": "f187a82f2ee042b08bd2a840da1a8e0d",
     "url": "paper-huts.github.io/streetartandmore/index.html"
   },
   {
